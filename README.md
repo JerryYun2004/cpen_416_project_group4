@@ -8,3 +8,5 @@
       primaryClass={quant-ph},
       url={https://arxiv.org/abs/2610.00736}, 
 }
+
+Google Doc: https://docs.google.com/document/d/18w3FZnkWeq8FXTi4x97io-ohomnybx-Ht1o1PAY5YhM/edit?tab=t.0
