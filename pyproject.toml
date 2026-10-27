@@ -2,4 +2,7 @@
 name = "cpen416-final-project-group4"
 version = "0.1.0"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "pennylane>=0.45.1",
+    "qiskit>=2.6.1",
+]
